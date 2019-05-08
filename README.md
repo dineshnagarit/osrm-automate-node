@@ -1,2 +1,2 @@
 # osrm-automate-node
-Work in progress.
+Work is in progress.
